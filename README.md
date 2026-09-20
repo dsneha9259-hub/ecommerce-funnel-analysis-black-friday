@@ -15,7 +15,7 @@ The full interactive Power BI file — [`Project1Ecommerce-Funnel-Analysis.pbix`
 
 **Project Name:** E-Commerce Funnel Analysis: Black Friday
 
-**Project Type:** Data Analytics / BI Case Study
+**Project Type:** Data Analytics / BI Case Study  
 **Tools Used:** Power BI Desktop, SQL, BigQuery (session-level validation)
 
 ## Scenario
