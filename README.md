@@ -10,6 +10,7 @@ Where buyers drop off, and what changed during Black Friday.
 
 ![Dashboard Overview](assets/dashboard-overview.png)
 
+The full interactive Power BI file — [`Project1Ecommerce-Funnel-Analysis.pbix`](Project1Ecommerce-Funnel-Analysis.pbix) — is available in this repo. Requires Power BI Desktop to open.
 ---
 
 **Project Name:** E-Commerce Funnel Analysis: Black Friday
