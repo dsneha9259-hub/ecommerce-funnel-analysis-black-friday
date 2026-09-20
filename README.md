@@ -67,5 +67,3 @@ Where buyers drop off, and what changed during Black Friday.
 - Oct vs Nov compares different traffic mixes, not a controlled experiment
 - Can't fully separate "hesitant buyer" from "comparison shopper" in this data
 - Based on one sale period; testing against another would strengthen confidence
-
----
