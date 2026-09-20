@@ -13,6 +13,7 @@ Where buyers drop off, and what changed during Black Friday.
 ---
 
 **Project Name:** E-Commerce Funnel Analysis: Black Friday
+
 **Project Type:** Data Analytics / BI Case Study
 **Tools Used:** Power BI Desktop, SQL, BigQuery (session-level validation)
 
