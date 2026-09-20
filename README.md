@@ -69,5 +69,3 @@ Where buyers drop off, and what changed during Black Friday.
 - Based on one sale period; testing against another would strengthen confidence
 
 ---
-
-I hope you found this insightful. See the buttons below to reach out or see my resume. Thank you for visiting.
