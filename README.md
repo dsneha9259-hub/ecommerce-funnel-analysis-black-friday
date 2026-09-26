@@ -29,7 +29,7 @@ The full interactive Power BI file — [`Project1Ecommerce-Funnel-Analysis.pbix`
 
 - October: 630K total purchases, 6.81% overall conversion
 - November: 773K total purchases, 5.62% overall conversion
-- Traffic nearly doubled (View: 9.24M → 13.77M), but conversion fell rather than held steady
+- Traffic rose 49% (View: 9.24M → 13.77M), but conversion fell rather than held steady
 - Cart→Purchase rate dropped sharply: 50.90% (Oct) → 37.20% (Nov)
 - Direct-buy rate collapsed: 53.60% (Oct) → 16.20% (Nov)
 - **Finding:** the leak is at checkout, not a lack of buyer interest
@@ -57,7 +57,7 @@ The full interactive Power BI file — [`Project1Ecommerce-Funnel-Analysis.pbix`
 ## Recommendations
 
 **High-confidence — Fix Checkout Friction**
-- Cart abandonment doubled during Black Friday (49% → 63%) while View→Cart interest rose
+-Cart abandonment rose from 49% to 63% (+14 points) during Black Friday while View→Cart interest rose
 - Recommended actions: stock countdown indicators, price-lock timers at cart, faster fewer-step checkout flow
 
 **Worth testing — Earlier-Funnel Urgency Signals**
